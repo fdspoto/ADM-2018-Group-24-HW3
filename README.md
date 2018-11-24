@@ -10,9 +10,11 @@ For the analysis, we used the data of the [Airbnb Property Data from Texas](http
 ### Description of the project
 In this repository you will find the Jupyter file named "Homework_3.ipynb" that contains all the work done in light of the achievement of the final result. Concretely:
 
-  - The creation and visualization of the following files "Dict", """""", """"", and its corresponding explanation. 
+  - The creation and visualization of the following files "Dict.txt", "Inv_Dict.txt", and its corresponding explanation. 
   
-  - The implementation of """"""", """"""" and the definition of the scoring functions. 
+  - The implementation and some examples of queries of the different Search Engines created.
+  
+  - The definition, implementations and example of the scoring new function. 
   
   - The implementation of the Geomap that searches accomodations according to a location and its radius.
   
