@@ -5,7 +5,7 @@ This is the repository for the third homework of the course ADM 2018 at Sapienza
 In this assignment we perform an analysis of the text of Airbnb property listings. In particular, our objective is to create an appropriate Search Engine to find the perfect house depending on the user's request.
 
 ## Data Source
-For the analysis, we used the data of the [Airbnb Property Data from Texas](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas), which contains the information of 18259 accomodations available in Texas.
+For the analysis, we used the data of the [Airbnb Property Data from Texas](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas), which contains the information of 18259 accommodations available in Texas.
 
 ## Description of the project
 In this repository you will find the Jupyter file named `Homework_3.ipynb` that contains all the work done in light of the achievement of the final result. Concretely:
@@ -17,6 +17,3 @@ In this repository you will find the Jupyter file named `Homework_3.ipynb` that 
   - The definition, implementations and example of the scoring new function. 
   
   - The implementation of the Geomap that searches accomodations according to a location and its radius.
-  
-
-
