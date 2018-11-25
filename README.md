@@ -21,4 +21,4 @@ the Jupyter file contains all the work done in light of the achievement of the f
   - The implementation of the Geomap that searches accomodations according to a location and its radius.
   
 2. `map.html`:
-this html file is an example of the application of the last part of the homework. In the example the user provides the coordinates [29.50306, -98.44768] and want to see the available apartments in a distance of 10 km. 
+this html file, that can be seen [here](https://nbviewer.jupyter.org/github/Rezaprh/ADM-2018-Group-24-HW3/blob/master/map.html), is an example of the application of the last part of the homework. In the example the user provides the coordinates [29.50306, -98.44768] and want to see the available apartments in a distance of 10 km. 
