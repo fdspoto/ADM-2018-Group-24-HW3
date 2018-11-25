@@ -8,7 +8,9 @@ In this assignment we perform an analysis of the text of Airbnb property listing
 For the analysis, we used the data of the [Airbnb Property Data from Texas](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas), which contains the information of 18259 accommodations available in Texas.
 
 ## Description of the project
-In this repository you will find the Jupyter file named `Homework_3.ipynb` that contains all the work done in light of the achievement of the final result. Concretely:
+In this repository you will find:
+1. `Homework_3.ipynb`:
+the Jupyter file contains all the work done in light of the achievement of the final result. Concretely:
 
   - The creation and visualization of the following files `Dict.txt`, `Inv_Dict.txt`, and its corresponding explanation. 
   
@@ -17,3 +19,6 @@ In this repository you will find the Jupyter file named `Homework_3.ipynb` that 
   - The definition, implementations and example of the scoring new function. 
   
   - The implementation of the Geomap that searches accomodations according to a location and its radius.
+  
+2. `map.html`:
+this html file is an example of the application of the last part of the homework. In the example the user provides the coordinates [29.50306, -98.44768] and want to see the available apartments in a distance of 10 km. 
