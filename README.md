@@ -7,7 +7,7 @@ In this assignment we perform an analysis of the text of Airbnb property listing
 ## Data Source
 For the analysis, we used the data of the [Airbnb Property Data from Texas](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas), which contains the information of 18259 accomodations available in Texas.
 
-### Description of the project
+## Description of the project
 In this repository you will find the Jupyter file named `Homework_3.ipynb` that contains all the work done in light of the achievement of the final result. Concretely:
 
   - The creation and visualization of the following files `Dict.txt`, `Inv_Dict.txt`, and its corresponding explanation. 
