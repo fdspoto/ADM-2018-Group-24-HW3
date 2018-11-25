@@ -9,8 +9,8 @@ For the analysis, we used the data of the [Airbnb Property Data from Texas](http
 
 ## Description of the project
 In this repository you will find:
-1. `Homework_3.ipynb`:
-the Jupyter file contains all the work done in light of the achievement of the final result. Concretely:
+1. `Homework_3.ipynb`: 
+the Jupyter file, that can be seen [here](https://nbviewer.jupyter.org/github/Rezaprh/ADM-2018-Group-24-HW3/blob/master/Homework_3.ipynb), contains all the work done in light of the achievement of the final result. Concretely:
 
   - The creation and visualization of the following files `Dict.txt`, `Inv_Dict.txt`, and its corresponding explanation. 
   
